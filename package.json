@@ -1,12 +1,12 @@
 {
   "name": "catch-of-the-day",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fist React App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Stephen Johnson",
   "license": "ISC",
   "devDependencies": {
     "autobind-decorator": "1.3.2",
@@ -35,5 +35,12 @@
     "vinyl-buffer": "1.0.0",
     "vinyl-source-stream": "1.1.0",
     "watchify": "3.4.0"
+  },
+  "dependencies": {
+    "lodash": "^4.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenfjohnson/catch-of-the-day.git"
   }
 }
